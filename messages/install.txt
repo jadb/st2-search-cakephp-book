@@ -1,0 +1,10 @@
+Search CakePHP Book
+==================
+
+Search the CakePHP 2.x Book for any selection or input.
+
+Please direct any feedback to @jadb on Twitter or GitHub at https://github.com/jadb/st2-search-cakephp-book.
+
+Thank you for your support.
+
+Jad Bitar (www.jadbitar.com)
