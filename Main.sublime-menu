@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "CakePHP Book",
+                "mnemonic": "f",
+                "id": "cakephpbook",
+                "children":
+                [
+                    {
+                        "command": "cakephpbook_search_selection",
+                        "caption": "Search Selection"
+                    },
+                    {
+                        "command": "cakephpbook_search_from_input",
+                        "caption": "Search From Input"
+                    }
+                ]
+            }
+        ]
+    }
+]

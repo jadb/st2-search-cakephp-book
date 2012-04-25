@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "CakePHP Book: Search Selection",
+        "command": "cakephpbook_search_selection"
+    },
+    {
+        "caption": "CakePHP Book: Search from Input",
+        "command": "cakephpbook_search_from_input"
+    }
+]
